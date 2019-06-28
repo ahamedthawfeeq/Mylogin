@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/colorAccent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_person_black_24dp"/>
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/round"
+        android:text="dev:thawfeeq"
+        android:clickable="true"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:id="@+id/thaw"
+        android:textStyle="italic"/>
+</RelativeLayout>

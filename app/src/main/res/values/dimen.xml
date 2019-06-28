@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_size">50dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="btnwid">260dp</dimen>
+    <dimen name="bheight">40dp</dimen>
+</resources>
